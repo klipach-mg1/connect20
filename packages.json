@@ -126,6 +126,21 @@
           "package-xml": "package.xml"
         }
       }
+    },
+    "connect20/hem_simpleshipping": {
+      "1.0.0": {
+        "name": "connect20/HEM_Simpleshipping",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "dist": {
+          "type": "tar",
+          "url": "https://raw.githubusercontent.com/klipach-mg1/connect20/master/HEM_Simpleshipping/1.0.0/HEM_Simpleshipping-1.0.0.tar"
+        },
+        "type": "magento-module",
+        "extra": {
+          "package-xml": "package.xml"
+        }
+      }
     }
   }
 }
